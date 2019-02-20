@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F96CC0E7-1822-41C4-939B-280210613A02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAT226AlgorithmProject/GraphInputter.cs">
+    <Files>
+      <File FileName="MAT226AlgorithmProject/StartPoint.cs" Line="1" Column="1" />
+      <File FileName="MAT226AlgorithmProject/GraphInputter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MAT226AlgorithmProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
