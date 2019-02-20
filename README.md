@@ -2,7 +2,8 @@
 
 ## Introduction
 
-The Nearest Neighbor heuristic
+The Nearest Neighbor heuristic is a step-by-step process of identifying the existence of Hamiltonian Circuits within a graph. A Hamiltonian Circuit is a circuit that starts and ends at the same vertex,
+and manages to include all vertices in the graph only once.
 
 ### StartPoint.cs
 
