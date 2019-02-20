@@ -17,6 +17,8 @@ This is just a class that creates a window showing the user what their entered a
 
 # Running the program
 
+In the upper right, click the green _Clone or download_ button, and download this project as a ZIP file. Then extract the file by right-clicking and selecting _Extract All_
+
 This program is a windows executable (.exe) and can be executed by double-clicking on the **MAT226AlgorithmProject.exe** file located in the
 _MAT226AlgorithmProject\bin_ folder
 
