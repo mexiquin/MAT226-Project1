@@ -40,3 +40,5 @@ This program is a windows executable (.exe) and can be executed by double-clicki
 _MAT226AlgorithmProject\bin_ folder
 
 All source (code) files can be found in the _MAT226AlgorithmProject\src_ folder
+
+**NOTE:** I've also added a backup Python 3 script that has the same functionality, just in case the .exe file doesn't work
